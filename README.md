@@ -1,4 +1,4 @@
-# 📊 Analytics Portfolio – Lucas Cardoso
+# 📊 Analytics Portfolio – Lucas Assis
 
 This repository serves as a central hub for selected graduate-level
 projects completed during my MSBA program, with a focus on statistical
